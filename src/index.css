@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif,'D','noto_bold';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face{
+  font-family: noto_bold;
+  font-weight: bold;
+  src:url("./fonts_notoSans/NotoSansKR-Bold.woff"),url("./fonts_notoSans/NotoSansKR-Bold.otf");
+}
+
+@font-face{
+  font-family: noto_normal;
+  font-weight: normal;
+  src : url("./fonts_notoSans/NotoSansKR-Medium.otf"), url("./fonts_notoSans/NotoSansKR-Medium.woff");
+}

@@ -1,0 +1,41 @@
+*{
+    margin:0; padding:0;
+    font-family:noto_normal;
+}
+
+#choose{
+    font-family: noto_bold;
+    margin-bottom:100px;
+}
+
+#radio_drum{
+    margin-top:70px;
+}
+
+/* #description{
+    font-size:20px;
+    margin-bottom:80px;
+} */
+
+#setTempo_container{
+    padding-top:100px;
+    height:max-content;
+    width:100vw;
+}
+
+.setTempo_background{
+    background:rgb(56, 131, 95);
+}
+
+#main{
+    margin:0 auto;
+    text-align: center;
+    width:max-content;
+    height:max-content;
+}
+
+.setTempo_container_two{
+    height:1000px;
+    margin : 0 auto;
+    text-align: center;
+}
